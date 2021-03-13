@@ -1,7 +1,8 @@
 # Basics on Retrieving Data with APIs
 
 ![](https://github.com/MKB-Datalab/retrieving-data-with-apis/blob/master/images/API_cover_Matthew_Henry_Burst.JPG)
-source: [Matthew Henry](https://burst.shopify.com/@matthew_henry) from Burst
+
+source: [Matthew Henry](https://burst.shopify.com/@matthew_henry) from [Burst](https://burst.shopify.com/).
 
 In this tutorial we give an overview of how to use APIs (Application Programming Interfaces) to retrieve data. Via API one is able to 
 retrieve real time data as well as historical data. An example of interesting business application involves combining real time data 
