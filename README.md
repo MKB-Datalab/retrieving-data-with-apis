@@ -32,4 +32,4 @@ Models to be used to keep you APIs keys and Twitter credentials can be found in 
   * You may want to use a virtual environment for this.
 
 -------------------------------------
-[:arrow_backward: **Back to repository main page**](https://github.com/dpbac/test_mkb_knowledge_repo)
+[:arrow_backward: **Back to repository main page**](https://github.com/MKB-Datalab/mkbdatalab_knowledge_repository_main)
