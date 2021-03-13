@@ -1,0 +1,7 @@
+data/TEMP_NS
+data/tweets
+docs/
+notebooks/.ipynb_checkpoints
+notebooks/private_twitter_credentials.py
+notebooks/keys.py
+notebooks/__pycache__
